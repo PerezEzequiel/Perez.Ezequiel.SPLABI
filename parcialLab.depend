@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1621431697 source:c:\users\ezequ\desktop\parciallab\datos.c
+	<stdio.h>
+	<stdlib.h>
+	"Datos.h"
+	"string.h"
+	"ctype.h"
+
+1621389516 c:\users\ezequ\desktop\parciallab\datos.h
+
+1624284346 source:c:\users\ezequ\desktop\parciallab\files.c
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+	<string.h>
+
+1624284382 c:\users\ezequ\desktop\parciallab\files.h
+
+1625666858 source:c:\users\ezequ\desktop\parciallab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625595692 c:\users\ezequ\desktop\parciallab\linkedlist.h
+
+1625326972 source:c:\users\ezequ\desktop\parciallab\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ctype.h"
+	"menu.h"
+
+1625326972 c:\users\ezequ\desktop\parciallab\menu.h
+
+1625667323 source:c:\users\ezequ\desktop\parciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"datos.h"
+	"menu.h"
+	"Controller.h"
+	"files.h"
+	"pais.h"
+
+1625665394 c:\users\ezequ\desktop\parciallab\controller.h
+
+1625665088 source:c:\users\ezequ\desktop\parciallab\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vacuna.h"
+
+1625666155 c:\users\ezequ\desktop\parciallab\vacuna.h
+	"LinkedList.h"
+
+1625667061 source:c:\users\ezequ\desktop\parciallab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"pais.h"
+	"parser.h"
+	"datos.h"
+	"files.h"
+	"Controller.h"
+	"menu.h"
+
+1625326972 c:\users\ezequ\desktop\parciallab\parser.h
+
+1625666625 source:c:\users\ezequ\desktop\parciallab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"pais.h"
+	<string.h>
+
+1625667173 source:c:\users\ezequ\desktop\parciallab\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pais.h"
+
+1625666155 c:\users\ezequ\desktop\parciallab\pais.h
+	"LinkedList.h"
+
